@@ -1,0 +1,5 @@
+Create repository
+Add project files
+Commit changes
+Push to GitHub
+
